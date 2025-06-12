@@ -38,7 +38,7 @@ Di seguito sono presentati i progetti principali che ho sviluppato, i quali dimo
 ## Formazione
 
 - **Studente - AI Specialist** | ITS , Pesaro | _(In corso)_
-- 
+  
 
 ## Contatti
 
