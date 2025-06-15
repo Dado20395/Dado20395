@@ -1,45 +1,33 @@
-# Davide Izzo - AI Specialist in Formazione
+# Davide Izzo | AI Specialist in Formazione
 
-Benvenuti sul mio profilo GitHub. Sono uno studente del percorso ITS per **AI Specialist**, impegnato in una transizione di carriera per dedicarmi allo sviluppo di soluzioni basate sui dati e sull'intelligenza artificiale.
+Studente del percorso **ITS AI Specialist** in transizione di carriera, con un focus sullo sviluppo di applicazioni AI end-to-end, dal concept al prototipo funzionante.
 
-Il mio obiettivo è applicare un approccio metodico e orientato alla risoluzione di problemi per tradurre complesse esigenze di business in applicazioni software funzionali, efficienti e intelligenti. Questo profilo funge da portfolio tecnico per documentare i miei progetti e le competenze pratiche che ho acquisito.
-
----
-
-##  Portfolio di Progetti
-
-Di seguito sono presentati i progetti principali che ho sviluppato, i quali dimostrano il mio percorso di apprendimento e la mia capacità di gestire un intero ciclo di sviluppo, dall'ideazione all'implementazione.
-
-- ### 🤖 Assistente Email Professionale
-  - **Descrizione:** Sviluppata un'applicazione web end-to-end per la generazione e il perfezionamento di testi, dotata di un'interfaccia conversazionale e controlli granulari.
-  - **Competenze dimostrate:** Sviluppo di interfacce reattive (Streamlit), gestione dello stato di sessione, integrazione di API (Google Gemini), prompt engineering avanzato.
-  - **[Vedi il Repository del Progetto]https://github.com/Dado20395/assistente-email-ai**
-
-- ### 👁️ Analizzatore di Immagini Proattivo
-  - **Descrizione:** Realizzata un'applicazione di Computer Vision per l'analisi multimodale di immagini. Il sistema estrae proattivamente dati strutturati (oggetti, testo OCR, descrizioni) e permette un'analisi di approfondimento tramite query in linguaggio naturale.
-  - **Competenze dimostrate:** Elaborazione di input multimodali (testo e immagini), persistenza dei dati tramite File I/O, progettazione di un'interfaccia a schede per una migliore User Experience.
-  - **[Vedi il Repository del Progetto]https://github.com/Dado20395/occhio-ai-analizzatore-immagini**
+Questo profilo è il mio portfolio dinamico, dove documento il mio percorso di apprendimento e i progetti che realizzo.
 
 ---
 
-## Competenze Tecniche
+### 🚀 Progetti Principali
 
-- **AI & Machine Learning:**
-  - `Google Gemini API` `Prompt Engineering` `Natural Language Processing (NLP)` `Computer Vision (Analisi Immagini)`
-- **Sviluppo & Backend:**
-  - `Python` `Streamlit` `Integrazione di API REST`
-- **Dati & Database:**
-  - `File I/O (.txt)` `Nozioni di base di Database (SQLite)`
-- **Strumenti & Metodologie:**
-  - `Git` `GitHub` `Visual Studio Code` `Problem Solving` `Sviluppo Iterativo (Agile)`
+-   **🤖 [Assistente Email Esperto]  https://github.com/Dado20395/assistente-email-ai**
+    -   *↳ Un'app conversazionale sviluppata in Streamlit per generare e perfezionare testi complessi tramite l'API di Gemini.*
+
+-   **👁️ [Occhio AI - Analizzatore di Immagini]  https://github.com/Dado20395/occhio-ai-analizzatore-immagini**
+    -   *↳ Uno strumento di Computer Vision che estrae proattivamente dati e insight da immagini, con un archivio persistente.*
 
 ---
 
-## Formazione
+### 🛠️ Stack Tecnologico & Competenze
 
-- **Studente - AI Specialist** | ITS , Pesaro | _(In corso)_
-  
+-   **AI & ML:** Google Gemini API, Prompt Engineering, NLP, Computer Vision
+-   **Sviluppo:** Python, Streamlit, Integrazione API REST, Git, GitHub
+-   **Dati:** File I/O, Nozioni di base di SQLite
 
-## Contatti
+---
 
-- **Profilo LinkedIn:** https://www.linkedin.com/in/davide-izzo-86445b142/
+### STATUS: 🚧 In Apprendimento e Sviluppo Costante 🚧
+
+Sono sempre al lavoro su nuovi progetti e sull'approfondimento delle mie competenze. Il prossimo obiettivo è la realizzazione di un **Agente di Ricerca Autonomo** che integri API di ricerca web e database.
+
+### 📫 Contatti
+
+-   **Profilo LinkedIn:**  https://www.linkedin.com/in/davide-izzo-86445b142/ 
