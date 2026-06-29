@@ -2,7 +2,7 @@ Davide Izzo
 
 AI Specialist · Machine Learning & Computer Vision
 
-Sviluppo applicativi e automazioni basati su Machine Learning e Intelligenza Artificiale: dall'addestramento di modelli di deep learning alle pipeline di Computer Vision end-to-end, fino alle web app che integrano modelli di AI e all'analisi e visualizzazione dei dati. Specializzazione AI Specialist (ITS) in corso, con esperienza pratica nel mondo dello Sport Analytics e dell'Health-tech.
+Sviluppo applicativi e automazioni basati su Machine Learning e Intelligenza Artificiale: dall'addestramento di modelli di deep learning alle pipeline di Computer Vision end-to-end, fino alle web app che integrano modelli di AI e all'analisi e visualizzazione dei dati. Specializzazione AI Specialist (ITS), con esperienza pratica nel mondo dello Sport Analytics e dell'Health-tech.
 
 Mi muovo lungo l'intero ciclo: capire il problema → costruire ed etichettare i dati → addestrare e validare i modelli → integrarli in una pipeline → restituire risultati leggibili e visualizzabili.
 
