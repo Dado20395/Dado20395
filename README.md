@@ -82,11 +82,10 @@ Risultati: mAP@50 ≈ 0.99 · mAP@50-95 ≈ 0.87 · precision/recall ≈ 0.99
 
 Python · PyTorch · Ultralytics YOLOv11 · yt-dlp · OpenCV · Data Labeling
 
-🩸 Health Analyzer — App AI per la lettura delle analisi del sangue
+#### 🩸 Health Analyzer — App AI per la lettura delle analisi di laboratorio
+Progressive Web App (desktop & mobile) che usa un LLM (Claude) per leggere i referti di laboratorio (sangue, urine, feci), estrarne i valori, classificarli rispetto ai range di riferimento (anche i risultati non numerici) e seguirne gli andamenti nel tempo, con indici derivati e commenti educativi. Privacy by design: nessun dato sanitario lascia il dispositivo.
 
-Progressive Web App (desktop & mobile) che usa un LLM per leggere un referto di analisi del sangue e raggruppare automaticamente i valori per categoria, li salva in un database locale e ne mostra gli andamenti nel tempo. Privacy by design: nessun dato sanitario lascia il dispositivo.
-
-JavaScript · PWA · Service Worker · SQL · Integrazione LLM · HTML/CSS
+`JavaScript` · `PWA` · `Service Worker` · `SQL` · `Integrazione LLM (Claude)` · `HTML/CSS`
 
 
 Progetto personale. In fase di pubblicazione come repository pubblico.
