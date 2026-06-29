@@ -8,7 +8,7 @@ Mi muovo lungo l'intero ciclo: capire il problema → costruire ed etichettare i
 
 📍 Marche, Italia · 💼 Open to work
 
-🔗 LinkedIn · ✉️ dizzo20395@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/davide-izzo-86445b142/) · ✉️ [dizzo20395@gmail.com](mailto:dizzo20395@gmail.com)
 
 
 🧠 Competenze tecniche
@@ -122,4 +122,4 @@ Italiano (madrelingua) · Inglese (B1) · Francese (B1)
 
 📫 Contatti
 
-LinkedIn · dizzo20395@gmail.com
+[LinkedIn](https://www.linkedin.com/in/davide-izzo-86445b142/) · [dizzo20395@gmail.com](mailto:dizzo20395@gmail.com)
