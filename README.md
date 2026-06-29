@@ -117,7 +117,7 @@ ICDL Essentials · AICA
 
 🌐 Lingue
 
-Italiano (madrelingua) · Inglese (B2) · Francese (base)
+Italiano (madrelingua) · Inglese (B1) · Francese (B1)
 
 
 📫 Contatti
