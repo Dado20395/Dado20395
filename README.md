@@ -109,7 +109,7 @@ Python · Computer Vision · OCR · Multimodal AI
 🎓 Formazione & Certificazioni
 
 
-Diploma di Specializzazione Tecnica Superiore (5 EQF) — AI Specialist · ITS Cultura Turismo e Nuove Tecnologie Marche · in corso (2024–2026)
+Diploma di Specializzazione Tecnica Superiore (5 EQF) — AI Specialist · ITS Cultura Turismo e Nuove Tecnologie Marche ·  (2024–2026)
 Machine Learning Specialization (Supervised ML · Advanced Learning Algorithms · Unsupervised, Recommenders & RL) · Stanford University & DeepLearning.AI — Coursera · 2025
 ICDL Essentials · AICA
 
